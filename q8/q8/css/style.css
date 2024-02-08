@@ -1,2 +1,21 @@
 @charset "UTF-8";
+.img{
+  height: 500px;
+  background-image: url(file:///C:/Users/Owner/LayoutParts-Part2/q8/image/coffee-background.jpg);
+}
 
+.repeat{
+  background-repeat: no-repeat;
+}
+
+.center1{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.center2{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
