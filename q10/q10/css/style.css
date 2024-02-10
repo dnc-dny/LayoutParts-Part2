@@ -59,10 +59,9 @@
 }
 
 .active-red:active{
+  border-bottom: none;
+  transform: translateY(5px);
   box-shadow: none;
-  -webkit-transform: translate(0,5px);
-  -moz-transform: translate(0,5px);
-  transform: translate(0,5px);
 }
 
 .active-blue{
@@ -72,10 +71,9 @@
 }
 
 .active-blue:active{
+  border-bottom: none;
+  transform: translateY(5px);
   box-shadow: none;
-  transform: translateY(0,5px);
-  -webkit-transform: translate(0,5px);
-  -moz-transform: translate(0,5px);
 }
 
 .active-green{
@@ -85,10 +83,9 @@
 }
 
 .active-green:active{
+  border-bottom: none;
+  transform: translateY(5px);
   box-shadow: none;
-  transform: translateY(0,5px);
-  -webkit-transform: translate(0,5px);
-  -moz-transform: translate(0,5px);
 }
 
 .style1{
