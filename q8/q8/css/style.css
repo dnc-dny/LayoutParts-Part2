@@ -1,7 +1,7 @@
 @charset "UTF-8";
 .img{
   height: 500px;
-  background-image: url(file:///C:/Users/Owner/LayoutParts-Part2/q8/image/coffee-background.jpg);
+  background-image: url(../../image/coffee-background.jpg);
 }
 
 .repeat{
