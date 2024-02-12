@@ -3,6 +3,10 @@
   height: 500px;
 }
 
+.normal{
+  background: url(../../image/coffee-background.jpg);
+}
+
 .repeat{
   background: url(../../image/coffee-background.jpg) no-repeat;
 }
